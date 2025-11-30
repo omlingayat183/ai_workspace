@@ -1,0 +1,17 @@
+# Node
+backend/node_modules/
+backend/package-lock.json
+
+# Secrets
+backend/.env
+
+# Flutter
+frontend/.dart_tool/
+frontend/.packages
+frontend/build/
+frontend/pubspec.lock
+
+# OS / Editor junk
+.DS_Store
+.idea/
+.vscode/
